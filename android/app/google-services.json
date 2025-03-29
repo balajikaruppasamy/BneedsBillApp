@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656566445622",
+    "project_id": "bneedsbillonline",
+    "storage_bucket": "bneedsbillonline.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656566445622:android:dcccc74db6004b0648da97",
+        "android_client_info": {
+          "package_name": "com.nminfotech.bneedsbillappnew.bneedsbillappnew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiF32eTZ0OSnQE6qxabz5sNt-hj6WKgww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
